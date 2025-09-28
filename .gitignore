@@ -1,0 +1,6 @@
+__pycache__
+env
+implement.py 
+*.pyc
+try.ipynb 
+corrected_floor_plan.png
